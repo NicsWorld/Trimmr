@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.cs_wrapper {
+  height: 100vh;
+  width: 100vw;
+  background-color: #a0cac9;
+  color: black;
+  font-family: 'Bad Script', cursive;
+  font-size: 58px;
+  font-weight: bold;
+}
